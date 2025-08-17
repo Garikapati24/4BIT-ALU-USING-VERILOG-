@@ -17,6 +17,6 @@
 - `screenshots/` – waveforms & console outputs
 
 ## waveforms
-![Waveform](waveforms/Screenshot 2025-08-17 105829.png)
-![Console](waveforms/Screenshot 2025-08-17 105844.png)
+![Waveform](waveforms/output.png)
+![Console](waveforms/waves.png)
 
